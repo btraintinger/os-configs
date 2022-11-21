@@ -66,6 +66,7 @@ coding_pkgs=(
 )
 
 gui_apps_pkgs=(
+	'obsidian'
 	'alacritty'
 	'konsole'
 	'kate'
