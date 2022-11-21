@@ -42,3 +42,5 @@ paru -S --noconfirm --needed $aur_gui_pkgs
 
 sudo usermod -aG flutterusers $USER
 flutter config --android-sdk /opt/android-sdk
+
+chezmoi init btraintinger --apply
