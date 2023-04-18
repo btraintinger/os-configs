@@ -9,16 +9,13 @@
 					"PackageIdentifier" : "Anki.Anki"
 				},
 				{
-					"PackageIdentifier" : "ArduinoSA.IDE.rc"
+					"PackageIdentifier" : "ArduinoSA.IDE.stable"
 				},
 				{
 					"PackageIdentifier" : "Audacity.Audacity"
 				},
 				{
 					"PackageIdentifier" : "Bitwarden.Bitwarden"
-				},
-				{
-					"PackageIdentifier" : "BraveSoftware.BraveBrowser"
 				},
 				{
 					"PackageIdentifier" : "CPUID.CPU-Z"
@@ -115,6 +112,24 @@
 				},
 				{
 					"PackageIdentifier" : "Oracle.VirtualBox"
+				},
+				{
+					"PackageIdentifier" : "Autodesk.EAGLE"
+				},
+				{
+					"PackageIdentifier" : "Google.Drive"
+				},
+				{
+					"PackageIdentifier" : "Inkscape.Inkscape"
+				},
+				{
+					"PackageIdentifier" : "Google.Drive"
+				},
+				{
+					"PackageIdentifier" : "Postman.Postman"
+				},
+				{
+					"PackageIdentifier" : "GeoGebra.Classic"
 				}
 			],
 			"SourceDetails" : 
